@@ -1,7 +1,7 @@
 # Words-from-Strangers
 This will be a website that will allow anonymous people to leave things they are currently feeling for strangers to stumble upon.
 
-##**Intro**
+**##Intro**
 Between 2010-2015 there was a fairly popular concept of posting anonymous one off messages to a website. Be it for venting, bragging, confessing, or encouragement to others. 
 
 ##**Design Concept**
